@@ -27,3 +27,5 @@ C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\refint\ConnectFour.dll
 C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\ConnectFour.pdb
 C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\ConnectFour.genruntimeconfig.cache
 C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\ref\ConnectFour.dll
+C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\ConnectFour.sourcelink.json
+C:\Users\LG\Desktop\Study\ConnectFour\obj\Debug\net8.0\scopedcss\Components\Board.razor.rz.scp.css
